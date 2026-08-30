@@ -1,0 +1,5042 @@
+{
+  "DÓNDE CRECIÓ": [
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      NaN,
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Rural",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Rural",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Rural",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Rural"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      NaN,
+      "Urbano",
+      [
+        "Rural",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      NaN,
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural"
+      ]
+    ],
+    [
+      NaN,
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      NaN,
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Rural",
+      "Urbano",
+      [
+        "Rural",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano"
+      ]
+    ],
+    [
+      "Rural",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Rural",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Rural",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      NaN,
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Rural",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ],
+    [
+      "Urbano",
+      "Urbano",
+      [
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano",
+        "Urbano"
+      ]
+    ]
+  ],
+  "GRUPO_EDAD": [
+    [
+      "18-20",
+      "Edad no especificada",
+      [
+        "21-23",
+        "Edad no especificada",
+        "18-20",
+        "18-20",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "Edad no especificada",
+      "18-20",
+      [
+        "18-20",
+        "Edad no especificada",
+        "18-20",
+        "18-20",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "18-20",
+      "Edad no especificada",
+      [
+        "Edad no especificada",
+        "18-20",
+        "21-23",
+        "21-23",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "24-25",
+      "18-20",
+      [
+        "18-20",
+        "21-23",
+        "18-20",
+        "18-20",
+        "21-23"
+      ]
+    ],
+    [
+      "21-23",
+      "18-20",
+      [
+        "18-20",
+        "Edad no especificada",
+        "18-20",
+        "21-23",
+        "24-25"
+      ]
+    ],
+    [
+      "18-20",
+      "21-23",
+      [
+        "21-23",
+        "18-20",
+        "21-23",
+        "21-23",
+        "21-23"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "18-20",
+        "21-23",
+        "18-20",
+        "Edad no especificada",
+        "18-20"
+      ]
+    ],
+    [
+      "21-23",
+      "Edad no especificada",
+      [
+        "Edad no especificada",
+        "Edad no especificada",
+        "Edad no especificada",
+        "Edad no especificada",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "18-20",
+      "Edad no especificada",
+      [
+        "Edad no especificada",
+        "18-20",
+        "Edad no especificada",
+        "Edad no especificada",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "18-20",
+        "18-20",
+        "21-23",
+        "Edad no especificada",
+        "18-20"
+      ]
+    ],
+    [
+      "21-23",
+      "18-20",
+      [
+        "18-20",
+        "21-23",
+        "18-20",
+        "18-20",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "21-23",
+      [
+        "18-20",
+        "21-23",
+        "21-23",
+        "21-23",
+        "21-23"
+      ]
+    ],
+    [
+      "18-20",
+      "Edad no especificada",
+      [
+        "Edad no especificada",
+        "21-23",
+        "18-20",
+        "21-23",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "21-23",
+      "18-20",
+      [
+        "18-20",
+        "21-23",
+        "18-20",
+        "24-25",
+        "18-20"
+      ]
+    ],
+    [
+      "21-23",
+      "18-20",
+      [
+        "18-20",
+        "18-20",
+        "18-20",
+        "Edad no especificada",
+        "21-23"
+      ]
+    ],
+    [
+      "Edad no especificada",
+      "18-20",
+      [
+        "21-23",
+        "18-20",
+        "18-20",
+        "18-20",
+        "18-20"
+      ]
+    ],
+    [
+      "21-23",
+      "Edad no especificada",
+      [
+        "21-23",
+        "Edad no especificada",
+        "Edad no especificada",
+        "Edad no especificada",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "21-23",
+        "18-20",
+        "18-20",
+        "Edad no especificada",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "Edad no especificada",
+      [
+        "18-20",
+        "Edad no especificada",
+        "Edad no especificada",
+        "Edad no especificada",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "Edad no especificada",
+        "18-20",
+        "21-23",
+        "18-20",
+        "21-23"
+      ]
+    ],
+    [
+      "18-20",
+      "Edad no especificada",
+      [
+        "Edad no especificada",
+        "Edad no especificada",
+        "18-20",
+        "Edad no especificada",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "21-23",
+      "Edad no especificada",
+      [
+        "Edad no especificada",
+        "21-23",
+        "Edad no especificada",
+        "18-20",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "21-23",
+        "18-20",
+        "18-20",
+        "21-23",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "21-23",
+      [
+        "21-23",
+        "21-23",
+        "21-23",
+        "18-20",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "18-20",
+        "18-20",
+        "Edad no especificada",
+        "Edad no especificada",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "18-20",
+        "18-20",
+        "18-20",
+        "18-20",
+        "21-23"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "21-23",
+        "18-20",
+        "18-20",
+        "18-20",
+        "18-20"
+      ]
+    ],
+    [
+      "21-23",
+      "Edad no especificada",
+      [
+        "21-23",
+        "Edad no especificada",
+        "Edad no especificada",
+        "18-20",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "18-20",
+        "18-20",
+        "18-20",
+        "18-20",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "21-23",
+      [
+        "21-23",
+        "21-23",
+        "21-23",
+        "18-20",
+        "21-23"
+      ]
+    ],
+    [
+      "24-25",
+      "Edad no especificada",
+      [
+        "Edad no especificada",
+        "18-20",
+        "21-23",
+        "Edad no especificada",
+        "21-23"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "18-20",
+        "18-20",
+        "18-20",
+        "21-23",
+        "18-20"
+      ]
+    ],
+    [
+      "21-23",
+      "18-20",
+      [
+        "21-23",
+        "18-20",
+        "18-20",
+        "18-20",
+        "21-23"
+      ]
+    ],
+    [
+      "21-23",
+      "18-20",
+      [
+        "18-20",
+        "Edad no especificada",
+        "18-20",
+        "21-23",
+        "18-20"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "18-20",
+        "18-20",
+        "21-23",
+        "18-20",
+        "21-23"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "18-20",
+        "Edad no especificada",
+        "18-20",
+        "18-20",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "21-23",
+        "18-20",
+        "Edad no especificada",
+        "18-20",
+        "Edad no especificada"
+      ]
+    ],
+    [
+      "18-20",
+      "18-20",
+      [
+        "Edad no especificada",
+        "18-20",
+        "18-20",
+        "18-20",
+        "Edad no especificada"
+      ]
+    ]
+  ],
+  "GRUPO_EDAD_INICIO_FB": [
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Mayor de 18",
+        "Edad inicio FB no especificada",
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Mayor de 18",
+      "Edad inicio FB no especificada",
+      [
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Adolescencia (14-18)",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Infancia (<=10)",
+      "Edad inicio FB no especificada",
+      [
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Adolescencia (14-18)",
+      "Infancia (<=10)",
+      [
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Infancia (<=10)",
+      [
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Preadolescencia (11-13)",
+      [
+        "Preadolescencia (11-13)",
+        "Preadolescencia (11-13)",
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Infancia (<=10)",
+      [
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)",
+        "Adolescencia (14-18)",
+        "Infancia (<=10)",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Adolescencia (14-18)",
+      [
+        "Adolescencia (14-18)",
+        "Adolescencia (14-18)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Edad inicio FB no especificada",
+      [
+        "Preadolescencia (11-13)",
+        "Preadolescencia (11-13)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Adolescencia (14-18)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Adolescencia (14-18)"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Preadolescencia (11-13)",
+      [
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Preadolescencia (11-13)",
+        "Adolescencia (14-18)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Infancia (<=10)",
+      [
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Adolescencia (14-18)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Adolescencia (14-18)",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Preadolescencia (11-13)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Preadolescencia (11-13)",
+      [
+        "Preadolescencia (11-13)",
+        "Adolescencia (14-18)",
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)",
+        "Preadolescencia (11-13)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Preadolescencia (11-13)",
+      [
+        "Preadolescencia (11-13)",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Infancia (<=10)",
+      [
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)",
+        "Preadolescencia (11-13)",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Infancia (<=10)",
+      "Edad inicio FB no especificada",
+      [
+        "Preadolescencia (11-13)",
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)",
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Adolescencia (14-18)",
+      "Infancia (<=10)",
+      [
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Preadolescencia (11-13)",
+        "Preadolescencia (11-13)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Infancia (<=10)",
+      "Infancia (<=10)",
+      [
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Mayor de 18",
+      "Edad inicio FB no especificada",
+      [
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Infancia (<=10)",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)"
+      ]
+    ],
+    [
+      "Preadolescencia (11-13)",
+      "Preadolescencia (11-13)",
+      [
+        "Preadolescencia (11-13)",
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Infancia (<=10)",
+      [
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Infancia (<=10)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Adolescencia (14-18)",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Preadolescencia (11-13)",
+      [
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada",
+        "Preadolescencia (11-13)",
+        "Infancia (<=10)",
+        "Preadolescencia (11-13)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada",
+        "Infancia (<=10)"
+      ]
+    ],
+    [
+      "Edad inicio FB no especificada",
+      "Edad inicio FB no especificada",
+      [
+        "Mayor de 18",
+        "Adolescencia (14-18)",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada",
+        "Edad inicio FB no especificada"
+      ]
+    ]
+  ],
+  "PARTICIP PUBLICANDO": [
+    [
+      NaN,
+      "Nula",
+      [
+        "Ocasional",
+        "Nula",
+        "Nula",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Paro Nal",
+        "Nula",
+        "Nula",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Ocasional",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Ocasional",
+        "Frecuente",
+        "Nula"
+      ]
+    ],
+    [
+      "Paro Nal",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      "Nula",
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Paro Nal",
+      [
+        "Paro Nal",
+        "Paro Nal",
+        "Frecuente",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Paro Nal",
+        "Frecuente",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Paro Nal",
+      [
+        "Paro Nal",
+        "Nula",
+        "Ocasional",
+        "Frecuente",
+        "Paro Nal"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Nula",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Frecuente",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Paro Nal",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Paro Nal",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Paro Nal",
+        "Frecuente",
+        "Frecuente",
+        "Nula"
+      ]
+    ],
+    [
+      "Nula",
+      "Paro Nal",
+      [
+        "Nula",
+        "Frecuente",
+        "Paro Nal",
+        "Ocasional",
+        "Paro Nal"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Frecuente",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Ocasional",
+        "Nula",
+        "Paro Nal",
+        "Frecuente",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Nula",
+      [
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Nula",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Nula",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Frecuente",
+        "Nula",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Nula",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Frecuente",
+        "Nula"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Paro Nal",
+      [
+        "Paro Nal",
+        "Frecuente",
+        "Ocasional",
+        "Nula",
+        "Paro Nal"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      "Nula",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Paro Nal",
+        "Nula"
+      ]
+    ]
+  ],
+  "DISCURSO": [
+    [
+      "Propositivo",
+      "Otro",
+      [
+        "Propositivo",
+        "Otro",
+        "Otro",
+        "Otro",
+        "Otro"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Otro",
+        "Desinterés",
+        "Propositivo",
+        "Reactivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Desinterés",
+        "Desinterés",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Desinterés",
+        "Propositivo",
+        "Propositivo",
+        "Otro",
+        "Otro"
+      ]
+    ],
+    [
+      "Reactivo",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Desinterés",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      "Desinterés",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Desinterés"
+      ]
+    ],
+    [
+      "Propositivo",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Reactivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Desinterés",
+      [
+        "Desinterés",
+        "Reactivo",
+        "Propositivo",
+        "Desinterés",
+        "Propositivo"
+      ]
+    ],
+    [
+      "Desinterés",
+      "Desinterés",
+      [
+        "Otro",
+        "Desinterés",
+        "Desinterés",
+        "Propositivo",
+        "Desinterés"
+      ]
+    ],
+    [
+      "Reactivo",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Reactivo",
+        "Propositivo",
+        "Reactivo",
+        "Otro"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Desinterés",
+        "Propositivo",
+        "Otro",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      "Propositivo",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Otro",
+        "Propositivo",
+        "Propositivo",
+        "Otro"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Reactivo",
+        "Otro",
+        "Propositivo",
+        "Otro"
+      ]
+    ],
+    [
+      NaN,
+      "Desinterés",
+      [
+        "Propositivo",
+        "Desinterés",
+        "Desinterés",
+        "Desinterés",
+        "Reactivo"
+      ]
+    ],
+    [
+      "Desinterés",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Desinterés",
+        "Propositivo",
+        "Propositivo",
+        "Reactivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Otro",
+        "Propositivo",
+        "Reactivo"
+      ]
+    ],
+    [
+      "Propositivo",
+      "Propositivo",
+      [
+        "Otro",
+        "Desinterés",
+        "Propositivo",
+        "Reactivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Otro",
+        "Desinterés",
+        "Desinterés"
+      ]
+    ],
+    [
+      NaN,
+      "Desinterés",
+      [
+        "Desinterés",
+        "Desinterés",
+        "Desinterés",
+        "Desinterés",
+        "Desinterés"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Reactivo",
+        "Otro",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Otro",
+      [
+        "Otro",
+        "Propositivo",
+        "Reactivo",
+        "Propositivo",
+        "Otro"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Reactivo",
+        "Reactivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      "Desinterés",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Otro",
+        "Reactivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Reactivo",
+      [
+        "Reactivo",
+        "Propositivo",
+        "Desinterés",
+        "Reactivo",
+        "Otro"
+      ]
+    ],
+    [
+      "Propositivo",
+      "Otro",
+      [
+        "Reactivo",
+        "Otro",
+        "Propositivo",
+        "Otro",
+        "Desinterés"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      "Propositivo",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Desinterés",
+        "Desinterés"
+      ]
+    ],
+    [
+      NaN,
+      "Otro",
+      [
+        "Otro",
+        "Propositivo",
+        "Desinterés",
+        "Otro",
+        "Reactivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      "Otro",
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Desinterés",
+        "Reactivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      "Desinterés",
+      "Propositivo",
+      [
+        "Reactivo",
+        "Otro",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Desinterés",
+        "Propositivo",
+        "Reactivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Reactivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo",
+        "Propositivo"
+      ]
+    ],
+    [
+      NaN,
+      "Propositivo",
+      [
+        "Propositivo",
+        "Desinterés",
+        "Propositivo",
+        "Reactivo",
+        "Propositivo"
+      ]
+    ]
+  ],
+  "IDEOLOGÍA POL": [
+    [
+      "Ausencia",
+      "Presencia",
+      [
+        "Presencia",
+        "Presencia",
+        "Presencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "No Definida",
+        "Ausencia",
+        "Presencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Presencia",
+        "Presencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "No Definida",
+        "Ausencia",
+        "Ausencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Presencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Presencia",
+        "Ausencia",
+        "Presencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "No Definida"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Presencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "Presencia",
+        "Presencia"
+      ]
+    ],
+    [
+      NaN,
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Presencia",
+      [
+        "Presencia",
+        "No Definida",
+        "Presencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      NaN,
+      "Presencia",
+      [
+        "Presencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Presencia",
+        "Ausencia",
+        "No Definida",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "No Definida",
+      "Presencia",
+      [
+        "Presencia",
+        "Presencia",
+        "Presencia",
+        "Presencia",
+        "Presencia"
+      ]
+    ],
+    [
+      NaN,
+      "Ausencia",
+      [
+        "Ausencia",
+        "No Definida",
+        "Presencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Presencia",
+      [
+        "Presencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "No Definida",
+        "Ausencia",
+        "Presencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      NaN,
+      "Presencia",
+      [
+        "Ausencia",
+        "Presencia",
+        "Ausencia",
+        "Presencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "No Definida",
+        "Presencia"
+      ]
+    ],
+    [
+      NaN,
+      "Presencia",
+      [
+        "Presencia",
+        "No Definida",
+        "Ausencia",
+        "Presencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Presencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Presencia",
+      [
+        "Presencia",
+        "Presencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Presencia",
+      [
+        "Presencia",
+        "Presencia",
+        "Ausencia",
+        "Presencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "No Definida",
+        "Ausencia",
+        "Presencia",
+        "Ausencia",
+        "Presencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Presencia",
+      [
+        "Presencia",
+        "Ausencia",
+        "Presencia",
+        "Ausencia",
+        "No Definida"
+      ]
+    ],
+    [
+      NaN,
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Presencia",
+      [
+        "Presencia",
+        "Presencia",
+        "Presencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "No Definida",
+      [
+        "No Definida",
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "No Definida"
+      ]
+    ],
+    [
+      "No Definida",
+      "Presencia",
+      [
+        "Presencia",
+        "Presencia",
+        "No Definida",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Presencia"
+      ]
+    ],
+    [
+      NaN,
+      "Ausencia",
+      [
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Ausencia",
+      "Ausencia",
+      [
+        "Presencia",
+        "Presencia",
+        "Ausencia",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Presencia",
+      [
+        "Presencia",
+        "Presencia",
+        "Presencia",
+        "Presencia",
+        "Ausencia"
+      ]
+    ],
+    [
+      "Presencia",
+      "Ausencia",
+      [
+        "Presencia",
+        "Ausencia",
+        "No Definida",
+        "Ausencia",
+        "Ausencia"
+      ]
+    ]
+  ],
+  "VIDA OFFLINE": [
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Nula",
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Nula",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Nula",
+      [
+        "Nula",
+        "Frecuente",
+        "Nula",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Frecuente",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Ocasional",
+        "Ocasional",
+        "Frecuente",
+        "Nula"
+      ]
+    ],
+    [
+      "Nula",
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Frecuente",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Frecuente",
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Nula",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Nula",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Nula",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Nula",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Frecuente",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Nula",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Nula",
+        "Frecuente",
+        "Ocasional",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Nula",
+      [
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ]
+  ],
+  "ACCESO REDES": [
+    [
+      "Condicional",
+      "Libre",
+      [
+        "Libre",
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Libre"
+      ]
+    ],
+    [
+      NaN,
+      "Libre",
+      [
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      "Libre",
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Primogénito Digital",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      "Condicional",
+      "Libre",
+      [
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      "Condicional",
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Libre",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      "Libre",
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      "Libre",
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      "Libre",
+      "Libre",
+      [
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      "Libre",
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Condicional",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      "Primogénito Digital",
+      "Condicional",
+      [
+        "Libre",
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      "Libre",
+      "Libre",
+      [
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      "Libre",
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Libre",
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      "Condicional",
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      NaN,
+      "Libre",
+      [
+        "Libre",
+        "Condicional",
+        "Parcial",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Primogénito Digital",
+        "Libre",
+        "Condicional",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      "Condicional",
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      "Libre",
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      "Libre",
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      NaN,
+      "Libre",
+      [
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      "Libre",
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Libre",
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      "Libre",
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      "Condicional",
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      "Condicional",
+      "Libre",
+      [
+        "Libre",
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      NaN,
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Libre",
+        "Condicional",
+        "Libre"
+      ]
+    ],
+    [
+      "Libre",
+      "Condicional",
+      [
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      NaN,
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Libre",
+        "Condicional",
+        "Libre"
+      ]
+    ],
+    [
+      "Libre",
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Libre",
+        "Condicional"
+      ]
+    ],
+    [
+      "Libre",
+      "Condicional",
+      [
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Libre",
+        "Libre"
+      ]
+    ],
+    [
+      "Libre",
+      "Condicional",
+      [
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Condicional",
+        "Libre"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Condicional",
+        "Libre"
+      ]
+    ],
+    [
+      NaN,
+      "Condicional",
+      [
+        "Condicional",
+        "Libre",
+        "Condicional",
+        "Condicional",
+        "Condicional"
+      ]
+    ],
+    [
+      "Libre",
+      "Libre",
+      [
+        "Libre",
+        "Libre",
+        "Condicional",
+        "Libre",
+        "Libre"
+      ]
+    ]
+  ],
+  "TIPO FAM1": [
+    [
+      NaN,
+      "Extensa",
+      [
+        "Independiente",
+        "Nuclear",
+        "Extensa",
+        "Extensa",
+        "Monoparental"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Extensa",
+        "Independiente",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Extensa",
+      "Nuclear",
+      [
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Extensa",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Extensa",
+        "Extensa",
+        "Extensa"
+      ]
+    ],
+    [
+      "Extensa",
+      "Extensa",
+      [
+        "Independiente",
+        "Extensa",
+        "Nuclear",
+        "Extensa",
+        "Extensa"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      "Extensa",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Independiente",
+        "Nuclear",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Extensa",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Extensa",
+      [
+        "Independiente",
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      NaN,
+      "Nuclear",
+      [
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Extensa",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Independiente",
+      "Extensa",
+      [
+        "Nuclear",
+        "Extensa",
+        "Nuclear",
+        "Extensa",
+        "Extensa"
+      ]
+    ],
+    [
+      "Extensa",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Extensa",
+      "Extensa",
+      [
+        "Independiente",
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      NaN,
+      "Extensa",
+      [
+        "Extensa",
+        "Nuclear",
+        "Extensa",
+        "Extensa",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Independiente",
+        "Nuclear"
+      ]
+    ],
+    [
+      NaN,
+      "Nuclear",
+      [
+        "Extensa",
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Monoparental",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Independiente",
+      [
+        "Independiente",
+        "Independiente",
+        "Extensa",
+        "Independiente",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Independiente",
+      [
+        "Independiente",
+        "Extensa",
+        "Nuclear",
+        "Independiente",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Extensa",
+        "Extensa"
+      ]
+    ],
+    [
+      "Extensa",
+      "Nuclear",
+      [
+        "Independiente",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Extensa"
+      ]
+    ],
+    [
+      "Independiente",
+      "Extensa",
+      [
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Extensa",
+        "Extensa"
+      ]
+    ],
+    [
+      "Extensa",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Independiente",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Extensa",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Extensa",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Extensa",
+        "Nuclear",
+        "Independiente",
+        "Nuclear"
+      ]
+    ],
+    [
+      "Nuclear",
+      "Nuclear",
+      [
+        "Nuclear",
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Independiente"
+      ]
+    ],
+    [
+      "Extensa",
+      "Nuclear",
+      [
+        "Independiente",
+        "Extensa",
+        "Nuclear",
+        "Nuclear",
+        "Nuclear"
+      ]
+    ]
+  ],
+  "TIPO RELACIÓN FAM2 (COHESIÓN)": [
+    [
+      NaN,
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Separada",
+      [
+        "Desligada",
+        "Separada",
+        "Separada",
+        "Conectada",
+        "Separada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Separada",
+        "Separada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Aglutinada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Aglutinada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Separada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Desligada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Aglutinada",
+      [
+        "Aglutinada",
+        "Separada",
+        "Conectada",
+        "Aglutinada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Separada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Separada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Desligada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Aglutinada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      NaN,
+      "Desligada",
+      [
+        "Desligada",
+        "Conectada",
+        "Conectada",
+        "Desligada",
+        "Desligada"
+      ]
+    ],
+    [
+      "Desligada",
+      "Conectada",
+      [
+        "Separada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Separada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Aglutinada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      NaN,
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Separada"
+      ]
+    ],
+    [
+      "Separada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      NaN,
+      "Conectada",
+      [
+        "Conectada",
+        "Separada",
+        "Conectada",
+        "Conectada",
+        "Desligada"
+      ]
+    ],
+    [
+      "Aglutinada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Aglutinada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      NaN,
+      "Desligada",
+      [
+        "Conectada",
+        "Desligada",
+        "Desligada",
+        "Desligada",
+        "Conectada"
+      ]
+    ],
+    [
+      NaN,
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Desligada",
+        "Separada"
+      ]
+    ],
+    [
+      NaN,
+      "Conectada",
+      [
+        "Separada",
+        "Conectada",
+        "Separada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Separada",
+        "Conectada",
+        "Aglutinada",
+        "Aglutinada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Separada",
+        "Conectada",
+        "Conectada",
+        "Separada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Separada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Separada",
+        "Conectada",
+        "Separada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Desligada",
+        "Conectada",
+        "Aglutinada",
+        "Separada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Aglutinada",
+      "Conectada",
+      [
+        "Separada",
+        "Conectada",
+        "Desligada",
+        "Aglutinada",
+        "Conectada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Desligada"
+      ]
+    ],
+    [
+      "Separada",
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ],
+    [
+      NaN,
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Separada"
+      ]
+    ],
+    [
+      "Conectada",
+      "Conectada",
+      [
+        "Conectada",
+        "Separada",
+        "Conectada",
+        "Separada",
+        "Conectada"
+      ]
+    ],
+    [
+      NaN,
+      "Conectada",
+      [
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada",
+        "Conectada"
+      ]
+    ]
+  ],
+  "EXAHUSTIVIDAD": [
+    [
+      "Frecuente",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Nula",
+        "Frecuente",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Total",
+        "Ocasional",
+        "Frecuente",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Nula",
+        "Frecuente",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Ocasional",
+        "Ocasional",
+        "Frecuente",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Nula",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Nula",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Nula",
+        "Frecuente",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Frecuente",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Nula",
+      [
+        "Frecuente",
+        "Nula",
+        "Nula",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Ocasional",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Total",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Frecuente",
+      [
+        "Frecuente",
+        "Frecuente",
+        "Nula",
+        "Frecuente",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Frecuente",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Nula"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Frecuente",
+        "Ocasional",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Frecuente",
+      [
+        "Total",
+        "Frecuente",
+        "Nula",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      NaN,
+      "Frecuente",
+      [
+        "Nula",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente",
+        "Nula"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Nula",
+      [
+        "Nula",
+        "Nula",
+        "Frecuente",
+        "Total",
+        "Nula"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Nula",
+        "Ocasional",
+        "Frecuente",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Frecuente",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Frecuente",
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Frecuente",
+      [
+        "Nula",
+        "Total",
+        "Ocasional",
+        "Frecuente",
+        "Frecuente"
+      ]
+    ],
+    [
+      NaN,
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Nula",
+        "Frecuente",
+        "Ocasional",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Ocasional",
+        "Ocasional",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Nula",
+      "Nula",
+      [
+        "Nula",
+        "Ocasional",
+        "Nula",
+        "Ocasional",
+        "Nula"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Ocasional",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Ocasional",
+        "Nula",
+        "Ocasional"
+      ]
+    ],
+    [
+      "Frecuente",
+      "Frecuente",
+      [
+        "Ocasional",
+        "Frecuente",
+        "Frecuente",
+        "Nula",
+        "Frecuente"
+      ]
+    ],
+    [
+      "Ocasional",
+      "Frecuente",
+      [
+        "Frecuente",
+        "Frecuente",
+        "Total",
+        "Nula",
+        "Nula"
+      ]
+    ]
+  ],
+  "INTENCIÓN DE VOTO": [
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      NaN,
+      "No sabe",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "No sabe",
+        "No sabe",
+        "No sabe"
+      ]
+    ],
+    [
+      "Sergio Fajardo",
+      "Gustavo Petro",
+      [
+        "Rodolfo Hernández",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "No sabe",
+      "Gustavo Petro",
+      [
+        "No sabe",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Sergio Fajardo",
+        "Rodolfo Hernández"
+      ]
+    ],
+    [
+      "Voto en Blanco",
+      "Voto en Blanco",
+      [
+        "Voto en Blanco",
+        "Voto en Blanco",
+        "Sergio Fajardo",
+        "Voto en Blanco",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Fico Gutiérrez",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "No sabe",
+        "Sergio Fajardo",
+        "Voto en Blanco"
+      ]
+    ],
+    [
+      "Rodolfo Hernández",
+      "Rodolfo Hernández",
+      [
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández"
+      ]
+    ],
+    [
+      "Rodolfo Hernández",
+      "Rodolfo Hernández",
+      [
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández"
+      ]
+    ],
+    [
+      "No sabe",
+      "Voto en Blanco",
+      [
+        "Voto en Blanco",
+        "Voto en Blanco",
+        "Voto en Blanco",
+        "Rodolfo Hernández",
+        "Voto en Blanco"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Voto en Blanco",
+      "Voto en Blanco",
+      [
+        "Voto en Blanco",
+        "No sabe",
+        "Gustavo Petro",
+        "Voto en Blanco",
+        "No sabe"
+      ]
+    ],
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Voto en Blanco",
+        "Sergio Fajardo",
+        "Rodolfo Hernández",
+        "No sabe"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Voto en Blanco",
+        "No sabe",
+        "Rodolfo Hernández",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Rodolfo Hernández",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Sergio Fajardo",
+        "Voto en Blanco",
+        "Gustavo Petro",
+        "Voto en Blanco"
+      ]
+    ],
+    [
+      "Rodolfo Hernández",
+      "Rodolfo Hernández",
+      [
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "No sabe",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "No sabe",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "No sabe",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "No sabe",
+      "No sabe",
+      [
+        "No sabe",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Sergio Fajardo",
+        "No sabe"
+      ]
+    ],
+    [
+      "Fico Gutiérrez",
+      "Rodolfo Hernández",
+      [
+        "Rodolfo Hernández",
+        "Gustavo Petro",
+        "Rodolfo Hernández",
+        "Fico Gutiérrez",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "No sabe",
+        "No sabe",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Voto en Blanco",
+        "Gustavo Petro",
+        "Sergio Fajardo"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Rodolfo Hernández",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Rodolfo Hernández",
+      "Rodolfo Hernández",
+      [
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "Sergio Fajardo",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Voto en Blanco",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "Voto en Blanco",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Voto en Blanco",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "No sabe"
+      ]
+    ],
+    [
+      "Voto en Blanco",
+      "Voto en Blanco",
+      [
+        "Voto en Blanco",
+        "Sergio Fajardo",
+        "Voto en Blanco",
+        "Gustavo Petro",
+        "Voto en Blanco"
+      ]
+    ],
+    [
+      "No sabe",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Rodolfo Hernández",
+        "Rodolfo Hernández",
+        "No sabe"
+      ]
+    ],
+    [
+      "Voto en Blanco",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Voto en Blanco",
+        "Gustavo Petro",
+        "No sabe",
+        "Sergio Fajardo"
+      ]
+    ],
+    [
+      NaN,
+      "Gustavo Petro",
+      [
+        "No sabe",
+        "Gustavo Petro",
+        "Voto en Blanco",
+        "Gustavo Petro",
+        "Voto en Blanco"
+      ]
+    ],
+    [
+      "Gustavo Petro",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ],
+    [
+      "No sabe",
+      "Gustavo Petro",
+      [
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro",
+        "Gustavo Petro"
+      ]
+    ]
+  ]
+}
